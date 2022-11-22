@@ -9,6 +9,10 @@
       "rarity_name": "U"
     },
     {
+      "rarity_image": null,
+      "rarity_name": "K"
+    },
+    {
       "rarity_image": "/assets/images/card/rarity/ic_rare_r_c.gif",
       "rarity_name": "R"
     },
@@ -17,8 +21,40 @@
       "rarity_name": "RR"
     },
     {
+      "rarity_image": null,
+      "rarity_name": "CHR"
+    },
+    {
+      "rarity_image": null,
+      "rarity_name": "RRR"
+    },
+    {
+      "rarity_image": null,
+      "rarity_name": "CSR"
+    },
+    {
       "rarity_image": "/assets/images/card/rarity/ic_rare_sr_c.gif",
       "rarity_name": "SR"
+    },
+    {
+      "rarity_image": null,
+      "rarity_name": "HR"
+    },
+    {
+      "rarity_image": null,
+      "rarity_name": "SSR"
+    },
+    {
+      "rarity_image": null,
+      "rarity_name": "UR"
+    },
+    {
+      "rarity_image": null,
+      "rarity_name": "A"
+    },
+    {
+      "rarity_image": null,
+      "rarity_name": "S"
     }
   ]
 }
