@@ -1,104 +1,186 @@
 {
-  "urls": [
-    {
-      "package_name": "拡張パック 「ソード&シールド」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/113"
-    },
-    {
-      "package_name": "強化拡張パック 「VMAXライジング」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/126"
-    },
-    {
-      "package_name": "拡張パック 「反逆クラッシュ」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/127"
-    },
-    {
-      "package_name": "強化拡張パック 「爆炎ウォーカー」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/139"
-    },
-    {
-      "package_name": "拡張パック 「ムゲンソーン」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/145"
-    },
-    {
-      "package_name": "強化拡張パック 「伝説の鼓動」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/148"
-    },
-    {
-      "package_name": "拡張パック 「仰天のボルテッカー」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/155"
-    },
-    {
-      "package_name": "ハイクラスパック 「シャイニースターV」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/163"
-    },
-    {
-      "package_name": "拡張パック 「一撃マスター&連撃マスター」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/166"
-    },
-    {
-      "package_name": "強化拡張パック 「双璧のファイター」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/171"
-    },
-    {
-      "package_name": "拡張パック 「漆黒のガイスト&白銀のランス」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/172"
-    },
-    {
-      "package_name": "強化拡張パック 「イーブイヒーローズ」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/173"
-    },
-    {
-      "package_name": "拡張パック 「蒼空ストリーム&摩天パーフェクト」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/175"
-    },
-    {
-      "package_name": "拡張パック 「フュージョンアーツ」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/215"
-    },
-    {
-      "package_name": "拡張パック 「25th ANNIVERSARY COLLECTION」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/217"
-    },
-    {
-      "package_name": "ハイクラスパック 「VMAXクライマックス」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/219"
-    },
-    {
-      "package_name": "拡張パック 「スターバース」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/223"
-    },
-    {
-      "package_name": "強化拡張パック 「バトルリージョン」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/227"
-    },
-    {
-      "package_name": "拡張パック 「タイムゲイザー&スペースジャグラー」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/235"
-    },
-    {
-      "package_name": "強化拡張パック 「ダークファンタズマ」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/236"
-    },
-    {
-      "package_name": "強化拡張パック 「Pokémon GO」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/240"
-    },
-    {
-      "package_name": "拡張パック 「ロストアビス」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/241"
-    },
-    {
-      "package_name": "強化拡張パック 「白熱のアルカナ」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/247"
-    },
-    {
-      "package_name": "拡張パック 「パラダイムトリガー」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/251"
-    },
-    {
-      "package_name": "ハイクラスパック 「VSTARユニバース」",
-      "url": "https://www.cardrush-pokemon.jp/product-group/261"
-    }
-  ]
+  "series": {
+    "S": [
+      {
+        "package_name": "拡張パック 「ソード&シールド」",
+        "model_numbers": [
+          "S1W",
+          "S1H"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/113"
+      },
+      {
+        "package_name": "強化拡張パック 「VMAXライジング」",
+        "model_numbers": [
+          "S1a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/126"
+      },
+      {
+        "package_name": "拡張パック 「反逆クラッシュ」",
+        "model_numbers": [
+          "S2"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/127"
+      },
+      {
+        "package_name": "強化拡張パック 「爆炎ウォーカー」",
+        "model_numbers": [
+          "S2a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/139"
+      },
+      {
+        "package_name": "拡張パック 「ムゲンソーン」",
+        "model_numbers": [
+          "S3"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/145"
+      },
+      {
+        "package_name": "強化拡張パック 「伝説の鼓動」",
+        "model_numbers": [
+          "S3a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/148"
+      },
+      {
+        "package_name": "拡張パック 「仰天のボルテッカー」",
+        "model_numbers": [
+          "S4"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/155"
+      },
+      {
+        "package_name": "ハイクラスパック 「シャイニースターV」",
+        "model_numbers": [
+          "S4a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/163"
+      },
+      {
+        "package_name": "拡張パック 「一撃マスター&連撃マスター」",
+        "model_numbers": [
+          "S5I",
+          "S5R"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/166"
+      },
+      {
+        "package_name": "強化拡張パック 「双璧のファイター」",
+        "model_numbers": [
+          "S5a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/171"
+      },
+      {
+        "package_name": "拡張パック 「漆黒のガイスト&白銀のランス」",
+        "model_numbers": [
+          "S6H",
+          "S6K"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/172"
+      },
+      {
+        "package_name": "強化拡張パック 「イーブイヒーローズ」",
+        "model_numbers": [
+          "S6a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/173"
+      },
+      {
+        "package_name": "拡張パック 「蒼空ストリーム&摩天パーフェクト」",
+        "model_numbers": [
+          "S7D",
+          "S7R"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/175"
+      },
+      {
+        "package_name": "拡張パック 「フュージョンアーツ」",
+        "model_numbers": [
+          "S8"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/215"
+      },
+      {
+        "package_name": "拡張パック 「25th ANNIVERSARY COLLECTION」",
+        "model_numbers": [
+          "S8a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/217"
+      },
+      {
+        "package_name": "ハイクラスパック 「VMAXクライマックス」",
+        "model_numbers": [
+          "S8b"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/219"
+      },
+      {
+        "package_name": "拡張パック 「スターバース」",
+        "model_numbers": [
+          "S9"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/223"
+      },
+      {
+        "package_name": "強化拡張パック 「バトルリージョン」",
+        "model_numbers": [
+          "S9a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/227"
+      },
+      {
+        "package_name": "拡張パック 「タイムゲイザー&スペースジャグラー」",
+        "model_numbers": [
+          "S10D",
+          "S10P"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/235"
+      },
+      {
+        "package_name": "強化拡張パック 「ダークファンタズマ」",
+        "model_numbers": [
+          "S10a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/236"
+      },
+      {
+        "package_name": "強化拡張パック 「Pokémon GO」",
+        "model_numbers": [
+          "S10b"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/240"
+      },
+      {
+        "package_name": "拡張パック 「ロストアビス」",
+        "model_numbers": [
+          "S11"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/241"
+      },
+      {
+        "package_name": "強化拡張パック 「白熱のアルカナ」",
+        "model_numbers": [
+          "S11a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/247"
+      },
+      {
+        "package_name": "拡張パック 「パラダイムトリガー」",
+        "model_numbers": [
+          "S12"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/251"
+      },
+      {
+        "package_name": "ハイクラスパック 「VSTARユニバース」",
+        "model_numbers": [
+          "S12a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/261"
+      }
+    ]
+  }
 }
