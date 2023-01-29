@@ -1,5 +1,15 @@
 {
   "series": {
+    "SV": [
+      {
+        "package_name": "拡張パック 「スカーレットex&バイオレットex」",
+        "model_numbers": [
+          "SV1V",
+          "SV1S"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/266"
+      }
+    ],
     "S": [
       {
         "package_name": "拡張パック 「ソード&シールド」",
