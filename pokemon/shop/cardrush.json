@@ -12,12 +12,33 @@
     ],
     "S": [
       {
+        "package_name": "プロモーションカード",
+        "model_numbers": [
+          "S-P"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/87"
+      },
+      {
         "package_name": "拡張パック 「ソード&シールド」",
         "model_numbers": [
           "S1W",
           "S1H"
         ],
         "url": "https://www.cardrush-pokemon.jp/product-group/113"
+      },
+      {
+        "package_name": "プレミアムトレーナーボックスソード＆シールド",
+        "model_numbers": [
+          "SB"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/115"
+      },
+      {
+        "package_name": "ソード＆シールド ザシアン+ザマゼンタ BOX",
+        "model_numbers": [
+          "SP1"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/125"
       },
       {
         "package_name": "強化拡張パック 「VMAXライジング」",
@@ -32,6 +53,13 @@
           "S2"
         ],
         "url": "https://www.cardrush-pokemon.jp/product-group/127"
+      },
+      {
+        "package_name": "スターターセットVMAX",
+        "model_numbers": [
+          "SC"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/137"
       },
       {
         "package_name": "強化拡張パック 「爆炎ウォーカー」",
@@ -55,6 +83,13 @@
         "url": "https://www.cardrush-pokemon.jp/product-group/148"
       },
       {
+        "package_name": "Vスタートデッキ",
+        "model_numbers": [
+          "SD"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/149"
+      },
+      {
         "package_name": "拡張パック 「仰天のボルテッカー」",
         "model_numbers": [
           "S4"
@@ -62,11 +97,41 @@
         "url": "https://www.cardrush-pokemon.jp/product-group/155"
       },
       {
+        "package_name": "VMAXスペシャルセット",
+        "model_numbers": [
+          "SP2"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/161"
+      },
+      {
         "package_name": "ハイクラスパック 「シャイニースターV」",
         "model_numbers": [
           "S4a"
         ],
         "url": "https://www.cardrush-pokemon.jp/product-group/163"
+      },
+      {
+        "package_name": "ハイクラスパック 「シャイニースターV」 漏れ（すごいきずぐすり 160/190）",
+        "model_numbers": [
+          "S4a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-list?keyword=%E3%81%99%E3%81%94%E3%81%84%E3%81%8D%E3%81%9A%E3%81%90%E3%81%99%E3%82%8A+160%2F190&Submit=%E6%A4%9C%E7%B4%A2"
+      },
+      {
+        "package_name": "ハイクラスパック 「シャイニースターV」 漏れ（ゴリランダーVMAX 010/190）",
+        "model_numbers": [
+          "S4a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-list?keyword=%E3%82%B4%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BCVMAX+010%2F190&Submit=%E6%A4%9C%E7%B4%A2"
+      },
+      {
+        "package_name": "VMAXスターターセット「フシギバナVMAX」「カメックスVMAX」「リザードンVMAX」",
+        "model_numbers": [
+          "SEF",
+          "SEK",
+          "SC2"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/164"
       },
       {
         "package_name": "拡張パック 「一撃マスター&連撃マスター」",
@@ -99,12 +164,27 @@
         "url": "https://www.cardrush-pokemon.jp/product-group/173"
       },
       {
+        "package_name": "ハイクラスデッキ「ゲンガーVMAX」「インテレオンVMAX」",
+        "model_numbers": [
+          "SGI",
+          "SGG"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/174"
+      },
+      {
         "package_name": "拡張パック 「蒼空ストリーム&摩天パーフェクト」",
         "model_numbers": [
           "S7D",
           "S7R"
         ],
         "url": "https://www.cardrush-pokemon.jp/product-group/175"
+      },
+      {
+        "package_name": "ファミリーポケモンカードゲームソードシールド",
+        "model_numbers": [
+          "SH"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/176"
       },
       {
         "package_name": "拡張パック 「フュージョンアーツ」",
@@ -121,6 +201,13 @@
         "url": "https://www.cardrush-pokemon.jp/product-group/217"
       },
       {
+        "package_name": "スペシャルデッキセット「ザシアン・ザマゼンタ vs ムゲンダイナ」",
+        "model_numbers": [
+          "SJ"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/218"
+      },
+      {
         "package_name": "ハイクラスパック 「VMAXクライマックス」",
         "model_numbers": [
           "S8b"
@@ -128,11 +215,34 @@
         "url": "https://www.cardrush-pokemon.jp/product-group/219"
       },
       {
+        "package_name": "スタートデッキ100 & コロコロ",
+        "model_numbers": [
+          "SI",
+          "SN"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/221"
+      },
+      {
+        "package_name": "25th ANNIVERSARY GOLDEN BOX",
+        "model_numbers": [
+          "S8a-G"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/222"
+      },
+      {
         "package_name": "拡張パック 「スターバース」",
         "model_numbers": [
           "S9"
         ],
         "url": "https://www.cardrush-pokemon.jp/product-group/223"
+      },
+      {
+        "package_name": "スターターセットVSTAR『ルカリオ』『ダークライ』",
+        "model_numbers": [
+          "SLL",
+          "SLD"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/226"
       },
       {
         "package_name": "強化拡張パック 「バトルリージョン」",
@@ -166,9 +276,17 @@
       {
         "package_name": "拡張パック 「ロストアビス」",
         "model_numbers": [
-          "S11"
+          "S11",
+          "SPZ"
         ],
         "url": "https://www.cardrush-pokemon.jp/product-group/241"
+      },
+      {
+        "package_name": "VSTARスペシャルセット",
+        "model_numbers": [
+          "SP6"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/243"
       },
       {
         "package_name": "強化拡張パック 「白熱のアルカナ」",
@@ -183,6 +301,13 @@
           "S12"
         ],
         "url": "https://www.cardrush-pokemon.jp/product-group/251"
+      },
+      {
+        "package_name": "スペシャルデッキセット『リザードンVSTARvsレックウザVMAX』",
+        "model_numbers": [
+          "SO"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/253"
       },
       {
         "package_name": "ハイクラスパック 「VSTARユニバース」",
