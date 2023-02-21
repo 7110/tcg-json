@@ -19,6 +19,13 @@
         "url": "https://www.cardrush-pokemon.jp/product-group/87"
       },
       {
+        "package_name": "プロモーションカード 漏れ",
+        "model_numbers": [
+          "S-P"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-list?keyword=S-P"
+      },
+      {
         "package_name": "スターターセット 炎 水 草 闘 雷",
         "model_numbers": [
           "SA"
@@ -122,14 +129,14 @@
         "model_numbers": [
           "S4a"
         ],
-        "url": "https://www.cardrush-pokemon.jp/product-list?keyword=%E3%81%99%E3%81%94%E3%81%84%E3%81%8D%E3%81%9A%E3%81%90%E3%81%99%E3%82%8A+160%2F190&Submit=%E6%A4%9C%E7%B4%A2"
+        "url": "https://www.cardrush-pokemon.jp/product-list?keyword=%E3%81%99%E3%81%94%E3%81%84%E3%81%8D%E3%81%9A%E3%81%90%E3%81%99%E3%82%8A+160%2F190"
       },
       {
         "package_name": "ハイクラスパック 「シャイニースターV」 漏れ（ゴリランダーVMAX 010/190）",
         "model_numbers": [
           "S4a"
         ],
-        "url": "https://www.cardrush-pokemon.jp/product-list?keyword=%E3%82%B4%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BCVMAX+010%2F190&Submit=%E6%A4%9C%E7%B4%A2"
+        "url": "https://www.cardrush-pokemon.jp/product-list?keyword=%E3%82%B4%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BCVMAX+010%2F190"
       },
       {
         "package_name": "VMAXスターターセット「フシギバナVMAX」「カメックスVMAX」「リザードンVMAX」",
