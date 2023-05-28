@@ -2,6 +2,13 @@
   "series": {
     "SV": [
       {
+        "package_name": "プロモーションカード",
+        "model_numbers": [
+          "SV-P"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/260"
+      },
+      {
         "package_name": "拡張パック 「スカーレットex&バイオレットex」",
         "model_numbers": [
           "SV1V",
