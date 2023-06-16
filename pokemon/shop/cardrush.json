@@ -1,6 +1,14 @@
 {
   "series": {
     "SV": [
+      
+      {
+        "package_name": "強化拡張パック「ポケモンカード151」",
+        "model_numbers": [
+          "SV2a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/284"
+      },
       {
         "package_name": "プロモーションカード",
         "model_numbers": [
