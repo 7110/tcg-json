@@ -1,6 +1,27 @@
 {
   "series": {
     "SV": [
+      {
+        "package_name": "ハイクラスパック 「シャイニートレジャーex」",
+        "model_numbers": [
+          "SV2a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/300"
+      },
+      {
+        "package_name": "拡張パック「古代の咆哮」「未来の一閃」",
+        "model_numbers": [
+          "SV2a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/298"
+      },
+      {
+        "package_name": "強化拡張パック「レイジングサーフ」",
+        "model_numbers": [
+          "SV2a"
+        ],
+        "url": "https://www.cardrush-pokemon.jp/product-group/294"
+      },
       
       {
         "package_name": "強化拡張パック「ポケモンカード151」",
